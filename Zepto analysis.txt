@@ -1,0 +1,29 @@
+Query: Top Expensive Products
+
+Insight:
+
+High-priced items are mostly oil and baby care products
+Borges Olive Oil is the most expensive item
+Premium brands (like Pampers, Saffola, Dhara) dominate high-value products
+Daily essentials like fruits/vegetables are not in top price range
+
+
+Category Insight:
+
+Personal Care and Paan Corner have the highest average prices
+Fruits & Vegetables have the lowest average price
+Daily essentials are cheaper, while packaged/personal products are more expensive
+
+
+Stock Insight:
+
+Majority of products are in stock (3275)
+Only 453 products are out of stock
+Inventory availability is generally strong
+
+
+Price range Insight:
+
+Most products fall in High (1995) and Medium (1598) price range
+Very few products are in Low price range (135)
+Platform is dominated by mid-to-high priced items
