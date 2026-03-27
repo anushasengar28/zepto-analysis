@@ -13,7 +13,7 @@ This project analyzes product data from Zepto using SQL and Power BI.
 - Most products are in stock
 - Majority products fall in medium to high price range
 ## The Dashboard
-
+![Zepto Dashboard](zepto.png)
 
 ## Files
 - zepto.csv → dataset
